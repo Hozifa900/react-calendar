@@ -1,0 +1,14 @@
+.green {
+  background-color: rgb(195, 252, 195);
+  border-radius: 10px;
+}
+
+.blue {
+  background-color: rgb(255, 214, 214);
+  border-radius: 10px;
+}
+
+.green:hover{
+  background-color: rgb(127, 252, 127);
+  width: 300px;
+}
